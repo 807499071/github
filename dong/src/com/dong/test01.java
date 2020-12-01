@@ -9,5 +9,6 @@ public class test01 {
         i = 3;
         i = 4;
         i = 5;
+        i = 6;
     }
 }
