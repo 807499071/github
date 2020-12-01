@@ -6,7 +6,8 @@ public class test01 {
         int i = 1;
         System.out.println(2);
         i =2;
-        i=3;
-        i=4;
+        i = 3;
+        i = 4;
+        i = 5;
     }
 }
